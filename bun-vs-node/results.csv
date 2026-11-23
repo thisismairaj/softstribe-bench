@@ -1,0 +1,206 @@
+test,command,run,value,unit
+startup,node -e 0,1,0.06128,seconds
+startup,node -e 0,2,0.097896,seconds
+startup,node -e 0,3,0.071178,seconds
+startup,node -e 0,4,0.054418,seconds
+startup,node -e 0,5,0.048296,seconds
+startup,node -e 0,6,0.047187,seconds
+startup,node -e 0,7,0.061215,seconds
+startup,node -e 0,8,0.050781,seconds
+startup,node -e 0,9,0.049088,seconds
+startup,node -e 0,10,0.059969,seconds
+startup,node -e 0,11,0.034675,seconds
+startup,node -e 0,12,0.041024,seconds
+startup,node -e 0,13,0.037357,seconds
+startup,node -e 0,14,0.041509,seconds
+startup,node -e 0,15,0.043698,seconds
+startup,node -e 0,16,0.058182,seconds
+startup,node -e 0,17,0.070325,seconds
+startup,node -e 0,18,0.047934,seconds
+startup,node -e 0,19,0.047814,seconds
+startup,node -e 0,20,0.050982,seconds
+startup,node -e 0,21,0.04683,seconds
+startup,node -e 0,22,0.05682,seconds
+startup,node -e 0,23,0.054486,seconds
+startup,node -e 0,24,0.061933,seconds
+startup,node -e 0,25,0.054195,seconds
+startup,node -e 0,26,0.071069,seconds
+startup,node -e 0,27,0.072005,seconds
+startup,node -e 0,28,0.080615,seconds
+startup,node -e 0,29,0.091727,seconds
+startup,node -e 0,30,0.112989,seconds
+startup,bun -e 0,1,0.016922,seconds
+startup,bun -e 0,2,0.016352,seconds
+startup,bun -e 0,3,0.015189,seconds
+startup,bun -e 0,4,0.017252,seconds
+startup,bun -e 0,5,0.026923,seconds
+startup,bun -e 0,6,0.017349,seconds
+startup,bun -e 0,7,0.017616,seconds
+startup,bun -e 0,8,0.020754,seconds
+startup,bun -e 0,9,0.024347,seconds
+startup,bun -e 0,10,0.010971,seconds
+startup,bun -e 0,11,0.010768,seconds
+startup,bun -e 0,12,0.010955,seconds
+startup,bun -e 0,13,0.011387,seconds
+startup,bun -e 0,14,0.011092,seconds
+startup,bun -e 0,15,0.011367,seconds
+startup,bun -e 0,16,0.011438,seconds
+startup,bun -e 0,17,0.010463,seconds
+startup,bun -e 0,18,0.010662,seconds
+startup,bun -e 0,19,0.012088,seconds
+startup,bun -e 0,20,0.010702,seconds
+startup,bun -e 0,21,0.010489,seconds
+startup,bun -e 0,22,0.01145,seconds
+startup,bun -e 0,23,0.013323,seconds
+startup,bun -e 0,24,0.012045,seconds
+startup,bun -e 0,25,0.012297,seconds
+startup,bun -e 0,26,0.011574,seconds
+startup,bun -e 0,27,0.01115,seconds
+startup,bun -e 0,28,0.01259,seconds
+startup,bun -e 0,29,0.013465,seconds
+startup,bun -e 0,30,0.010838,seconds
+startup,node hello.ts,1,0.110778,seconds
+startup,node hello.ts,2,0.102852,seconds
+startup,node hello.ts,3,0.09836,seconds
+startup,node hello.ts,4,0.095632,seconds
+startup,node hello.ts,5,0.100063,seconds
+startup,node hello.ts,6,0.090898,seconds
+startup,node hello.ts,7,0.104789,seconds
+startup,node hello.ts,8,0.125208,seconds
+startup,node hello.ts,9,0.139658,seconds
+startup,node hello.ts,10,0.23345,seconds
+startup,node hello.ts,11,0.146851,seconds
+startup,node hello.ts,12,0.096066,seconds
+startup,node hello.ts,13,0.092831,seconds
+startup,node hello.ts,14,0.10289,seconds
+startup,node hello.ts,15,0.105609,seconds
+startup,node hello.ts,16,0.103314,seconds
+startup,node hello.ts,17,0.102626,seconds
+startup,node hello.ts,18,0.09545,seconds
+startup,node hello.ts,19,0.092115,seconds
+startup,node hello.ts,20,0.084081,seconds
+startup,node hello.ts,21,0.080955,seconds
+startup,node hello.ts,22,0.088411,seconds
+startup,node hello.ts,23,0.080786,seconds
+startup,node hello.ts,24,0.165058,seconds
+startup,node hello.ts,25,0.099162,seconds
+startup,node hello.ts,26,0.086934,seconds
+startup,node hello.ts,27,0.101239,seconds
+startup,node hello.ts,28,0.09373,seconds
+startup,node hello.ts,29,0.101648,seconds
+startup,node hello.ts,30,0.088452,seconds
+startup,bun hello.ts,1,0.011369,seconds
+startup,bun hello.ts,2,0.011452,seconds
+startup,bun hello.ts,3,0.011207,seconds
+startup,bun hello.ts,4,0.012679,seconds
+startup,bun hello.ts,5,0.011952,seconds
+startup,bun hello.ts,6,0.011842,seconds
+startup,bun hello.ts,7,0.011467,seconds
+startup,bun hello.ts,8,0.012109,seconds
+startup,bun hello.ts,9,0.012308,seconds
+startup,bun hello.ts,10,0.012769,seconds
+startup,bun hello.ts,11,0.011503,seconds
+startup,bun hello.ts,12,0.013588,seconds
+startup,bun hello.ts,13,0.012888,seconds
+startup,bun hello.ts,14,0.012009,seconds
+startup,bun hello.ts,15,0.011724,seconds
+startup,bun hello.ts,16,0.012244,seconds
+startup,bun hello.ts,17,0.012317,seconds
+startup,bun hello.ts,18,0.011754,seconds
+startup,bun hello.ts,19,0.011663,seconds
+startup,bun hello.ts,20,0.012194,seconds
+startup,bun hello.ts,21,0.012356,seconds
+startup,bun hello.ts,22,0.011584,seconds
+startup,bun hello.ts,23,0.011685,seconds
+startup,bun hello.ts,24,0.011758,seconds
+startup,bun hello.ts,25,0.012174,seconds
+startup,bun hello.ts,26,0.011306,seconds
+startup,bun hello.ts,27,0.011586,seconds
+startup,bun hello.ts,28,0.0125,seconds
+startup,bun hello.ts,29,0.011312,seconds
+startup,bun hello.ts,30,0.011491,seconds
+cpu,node cpu.mjs,1,0.653522,seconds
+cpu,node cpu.mjs,2,0.628961,seconds
+cpu,node cpu.mjs,3,0.563532,seconds
+cpu,node cpu.mjs,4,0.591052,seconds
+cpu,node cpu.mjs,5,0.662375,seconds
+cpu,node cpu.mjs,6,0.613131,seconds
+cpu,node cpu.mjs,7,0.602569,seconds
+cpu,node cpu.mjs,8,0.716318,seconds
+cpu,node cpu.mjs,9,0.646728,seconds
+cpu,node cpu.mjs,10,0.564914,seconds
+cpu,node cpu.mjs,11,0.56684,seconds
+cpu,node cpu.mjs,12,0.557018,seconds
+cpu,node cpu.mjs,13,0.550924,seconds
+cpu,node cpu.mjs,14,0.543845,seconds
+cpu,node cpu.mjs,15,0.553768,seconds
+cpu,node cpu.mjs,16,0.596273,seconds
+cpu,node cpu.mjs,17,0.541783,seconds
+cpu,node cpu.mjs,18,0.550214,seconds
+cpu,node cpu.mjs,19,0.621526,seconds
+cpu,node cpu.mjs,20,0.539963,seconds
+cpu,node cpu.mjs,21,0.54413,seconds
+cpu,node cpu.mjs,22,0.559852,seconds
+cpu,node cpu.mjs,23,0.576388,seconds
+cpu,node cpu.mjs,24,0.543047,seconds
+cpu,node cpu.mjs,25,0.528252,seconds
+cpu,node cpu.mjs,26,0.556642,seconds
+cpu,node cpu.mjs,27,0.547601,seconds
+cpu,node cpu.mjs,28,0.52823,seconds
+cpu,node cpu.mjs,29,0.56664,seconds
+cpu,node cpu.mjs,30,0.569144,seconds
+cpu,bun cpu.mjs,1,0.337455,seconds
+cpu,bun cpu.mjs,2,0.303723,seconds
+cpu,bun cpu.mjs,3,0.310987,seconds
+cpu,bun cpu.mjs,4,0.316978,seconds
+cpu,bun cpu.mjs,5,0.351643,seconds
+cpu,bun cpu.mjs,6,0.407728,seconds
+cpu,bun cpu.mjs,7,0.321082,seconds
+cpu,bun cpu.mjs,8,0.322186,seconds
+cpu,bun cpu.mjs,9,0.326402,seconds
+cpu,bun cpu.mjs,10,0.306444,seconds
+cpu,bun cpu.mjs,11,0.314168,seconds
+cpu,bun cpu.mjs,12,0.306418,seconds
+cpu,bun cpu.mjs,13,0.310972,seconds
+cpu,bun cpu.mjs,14,0.304532,seconds
+cpu,bun cpu.mjs,15,0.307994,seconds
+cpu,bun cpu.mjs,16,0.31835,seconds
+cpu,bun cpu.mjs,17,0.327514,seconds
+cpu,bun cpu.mjs,18,0.305614,seconds
+cpu,bun cpu.mjs,19,0.313831,seconds
+cpu,bun cpu.mjs,20,0.309063,seconds
+cpu,bun cpu.mjs,21,0.317918,seconds
+cpu,bun cpu.mjs,22,0.311215,seconds
+cpu,bun cpu.mjs,23,0.323351,seconds
+cpu,bun cpu.mjs,24,0.316345,seconds
+cpu,bun cpu.mjs,25,0.316837,seconds
+cpu,bun cpu.mjs,26,0.386801,seconds
+cpu,bun cpu.mjs,27,0.359446,seconds
+cpu,bun cpu.mjs,28,0.407026,seconds
+cpu,bun cpu.mjs,29,0.381659,seconds
+cpu,bun cpu.mjs,30,0.361642,seconds
+install_cold,npm install,1,58.265532922,seconds
+install_cold,bun install,1,13.070715990,seconds
+install_cold,bun install,2,8.204690149,seconds
+install_cold,npm install,2,70.832230114,seconds
+install_cold,npm install,3,55.442173751,seconds
+install_cold,bun install,3,10.917270765,seconds
+install_warm,npm install,1,3.846082445,seconds
+install_warm,bun install,1,.102303939,seconds
+install_warm,bun install,2,.109917228,seconds
+install_warm,npm install,2,4.046801934,seconds
+install_warm,npm install,3,3.941960446,seconds
+install_warm,bun install,3,.114315584,seconds
+install_warm,bun install,4,.125227166,seconds
+install_warm,npm install,4,3.877094630,seconds
+install_warm,npm install,5,3.764905328,seconds
+install_warm,bun install,5,.096435773,seconds
+http,node-http,1,14946.75,requests_per_sec
+http,node-http,2,14975.06,requests_per_sec
+http,node-http,3,12058.63,requests_per_sec
+http,bun-node-http,1,20730.90,requests_per_sec
+http,bun-node-http,2,20217.44,requests_per_sec
+http,bun-node-http,3,27697.32,requests_per_sec
+http,bun-serve,1,43192.33,requests_per_sec
+http,bun-serve,2,38229.18,requests_per_sec
+http,bun-serve,3,37510.34,requests_per_sec

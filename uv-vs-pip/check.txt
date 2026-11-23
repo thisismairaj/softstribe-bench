@@ -1,0 +1,5 @@
+same packages: NO
+pip venv 377 MB, uv venv 280 MB
+packages: 49
+uv --compile-bytecode venv 377 MB
+same packages after normalising names: True

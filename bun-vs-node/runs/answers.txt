@@ -1,0 +1,7 @@
+node cpu: f4089d9efe19a324
+bun  cpu: f4089d9efe19a324
+node ts:  hello world x1
+bun  ts:  hello world x1
+same top-level versions: yes
+node_modules: npm 128 MB, bun 128 MB
+packages in node_modules: npm 202, bun 202

@@ -1,0 +1,10 @@
+variant,run,requests_per_sec,latency_p50,latency_p99,non2xx
+node-http,1,14946.75,4.15ms,8.53ms,0
+node-http,2,14975.06,4.22ms,7.95ms,0
+node-http,3,12058.63,4.88ms,11.51ms,0
+bun-node-http,1,20730.90,2.67ms,18.18ms,0
+bun-node-http,2,20217.44,2.79ms,13.07ms,0
+bun-node-http,3,27697.32,2.23ms,4.64ms,0
+bun-serve,1,43192.33,1.33ms,3.40ms,0
+bun-serve,2,38229.18,1.52ms,3.47ms,0
+bun-serve,3,37510.34,1.45ms,21.25ms,0

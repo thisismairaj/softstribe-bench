@@ -7,6 +7,8 @@ Every number on those pages comes from the scripts and raw results in this repo,
 |---|---|---|
 | [sqlite-vs-duckdb](sqlite-vs-duckdb/) | [SQLite vs DuckDB: We Benchmarked Both on 1 Million Rows](https://softstribe.com/compare/sqlite-vs-duckdb) | CSV load, analytical queries, single-row reads and writes, file size |
 | [postgresql-vs-mysql](postgresql-vs-mysql/) | [PostgreSQL vs MySQL: I Benchmarked Both on 1 Million Rows](https://softstribe.com/compare/postgresql-vs-mysql) | Bulk load, reports, single-row writes, 8 concurrent clients, idle memory, image size |
+| [uv-vs-pip](uv-vs-pip/) | [uv vs pip: I Timed Both on the Same 49 Packages](https://softstribe.com/compare/uv-vs-pip) | Environments, resolving, cold and cached installs, bytecode compilation |
+| [bun-vs-node](bun-vs-node/) | [Bun vs Node.js: I Benchmarked Startup, Installs and HTTP](https://softstribe.com/compare/bun-vs-node) | Startup, TypeScript, CPU script, npm vs bun installs, HTTP throughput |
 
 ## How these are run
 
