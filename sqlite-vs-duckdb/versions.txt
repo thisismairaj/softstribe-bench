@@ -1,0 +1,4 @@
+sqlite 3.54.1
+duckdb 2.0.1
+python 3.13.18
+rows 1000000 customers 100000 runs 10

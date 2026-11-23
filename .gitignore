@@ -1,0 +1,5 @@
+data/
+shots/
+*.png
+*.webp
+__pycache__/

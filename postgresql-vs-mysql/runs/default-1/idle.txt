@@ -1,0 +1,6 @@
+postgres idle 39.84MiB / 4GiB
+postgres after-tests 226.6MiB / 4GiB
+mysql idle 432.2MiB / 4GiB
+mysql after-tests 649.3MiB / 4GiB
+postgres:19.0 image_bytes 169911380
+mysql:26.10.0 image_bytes 299048716

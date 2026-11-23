@@ -1,0 +1,1 @@
+mysql: 26.10.0 driver=connector 26.10.0 c_ext=CMySQLConnection

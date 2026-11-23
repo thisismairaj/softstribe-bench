@@ -1,0 +1,689 @@
+run,engine,mysql_driver,test,seconds
+default-1,postgres,,load_csv,1.788138
+default-1,postgres,,load_csv,1.797919
+default-1,postgres,,load_csv,1.823615
+default-1,postgres,,table_size_mb,89.7024
+default-1,postgres,,sum_by_category,0.121582
+default-1,postgres,,sum_by_category,0.118378
+default-1,postgres,,sum_by_category,0.191689
+default-1,postgres,,sum_by_category,0.173898
+default-1,postgres,,sum_by_category,0.119152
+default-1,postgres,,sum_by_category,0.11668
+default-1,postgres,,sum_by_category,0.179643
+default-1,postgres,,sum_by_category,0.126703
+default-1,postgres,,sum_by_category,0.170214
+default-1,postgres,,sum_by_category,0.119812
+default-1,postgres,,count_by_month,0.17862
+default-1,postgres,,count_by_month,0.130008
+default-1,postgres,,count_by_month,0.197149
+default-1,postgres,,count_by_month,0.195937
+default-1,postgres,,count_by_month,0.184617
+default-1,postgres,,count_by_month,0.191974
+default-1,postgres,,count_by_month,0.144013
+default-1,postgres,,count_by_month,0.185181
+default-1,postgres,,count_by_month,0.266348
+default-1,postgres,,count_by_month,0.155198
+default-1,postgres,,join_country_segment,0.395658
+default-1,postgres,,join_country_segment,0.39314
+default-1,postgres,,join_country_segment,0.378107
+default-1,postgres,,join_country_segment,0.460819
+default-1,postgres,,join_country_segment,0.498368
+default-1,postgres,,join_country_segment,0.391951
+default-1,postgres,,join_country_segment,0.480104
+default-1,postgres,,join_country_segment,0.402225
+default-1,postgres,,join_country_segment,0.405716
+default-1,postgres,,join_country_segment,0.486077
+default-1,postgres,,top_10_customers,0.737758
+default-1,postgres,,top_10_customers,0.657553
+default-1,postgres,,top_10_customers,0.570483
+default-1,postgres,,top_10_customers,0.877453
+default-1,postgres,,top_10_customers,0.754751
+default-1,postgres,,top_10_customers,0.656513
+default-1,postgres,,top_10_customers,0.668734
+default-1,postgres,,top_10_customers,0.697378
+default-1,postgres,,top_10_customers,0.836094
+default-1,postgres,,top_10_customers,0.606392
+default-1,postgres,,point_lookup_by_id,0.000295
+default-1,postgres,,point_lookup_by_id,0.000211
+default-1,postgres,,point_lookup_by_id,0.000199
+default-1,postgres,,point_lookup_by_id,0.000271
+default-1,postgres,,point_lookup_by_id,0.00035
+default-1,postgres,,point_lookup_by_id,0.000167
+default-1,postgres,,point_lookup_by_id,0.000164
+default-1,postgres,,point_lookup_by_id,0.000177
+default-1,postgres,,point_lookup_by_id,0.000239
+default-1,postgres,,point_lookup_by_id,0.00019
+default-1,postgres,,filter_one_customer_no_index,0.025636
+default-1,postgres,,filter_one_customer_no_index,0.025586
+default-1,postgres,,filter_one_customer_no_index,0.023487
+default-1,postgres,,filter_one_customer_no_index,0.023435
+default-1,postgres,,filter_one_customer_no_index,0.069833
+default-1,postgres,,filter_one_customer_no_index,0.023474
+default-1,postgres,,filter_one_customer_no_index,0.089591
+default-1,postgres,,filter_one_customer_no_index,0.079459
+default-1,postgres,,filter_one_customer_no_index,0.03243
+default-1,postgres,,filter_one_customer_no_index,0.058151
+default-1,postgres,,filter_one_customer_with_index,0.000314
+default-1,postgres,,filter_one_customer_with_index,0.000249
+default-1,postgres,,filter_one_customer_with_index,0.000235
+default-1,postgres,,filter_one_customer_with_index,0.00023
+default-1,postgres,,filter_one_customer_with_index,0.000229
+default-1,postgres,,filter_one_customer_with_index,0.000227
+default-1,postgres,,filter_one_customer_with_index,0.000225
+default-1,postgres,,filter_one_customer_with_index,0.000242
+default-1,postgres,,filter_one_customer_with_index,0.000241
+default-1,postgres,,filter_one_customer_with_index,0.000269
+default-1,postgres,,insert_1000_single_rows,1.063455
+default-1,postgres,,update_1000_rows_by_id,1.192331
+default-1,postgres,,insert_10000_rows_one_transaction,1.57392
+default-1,postgres,,8_clients_4000_inserts,2.132923
+default-1,postgres,,insert_1000_single_rows,0.971205
+default-1,postgres,,update_1000_rows_by_id,0.95332
+default-1,postgres,,insert_10000_rows_one_transaction,1.634302
+default-1,postgres,,8_clients_4000_inserts,2.079228
+default-1,postgres,,insert_1000_single_rows,1.0827
+default-1,postgres,,update_1000_rows_by_id,1.138321
+default-1,postgres,,insert_10000_rows_one_transaction,1.63594
+default-1,postgres,,8_clients_4000_inserts,2.0911
+default-1,mysql,PyMySQL,load_csv,6.062371
+default-1,mysql,PyMySQL,load_csv,8.023333
+default-1,mysql,PyMySQL,load_csv,7.139654
+default-1,mysql,PyMySQL,table_size_mb,57.229312
+default-1,mysql,PyMySQL,sum_by_category,0.644748
+default-1,mysql,PyMySQL,sum_by_category,0.651307
+default-1,mysql,PyMySQL,sum_by_category,0.656129
+default-1,mysql,PyMySQL,sum_by_category,0.654584
+default-1,mysql,PyMySQL,sum_by_category,0.655967
+default-1,mysql,PyMySQL,sum_by_category,0.657277
+default-1,mysql,PyMySQL,sum_by_category,0.638705
+default-1,mysql,PyMySQL,sum_by_category,0.736854
+default-1,mysql,PyMySQL,sum_by_category,1.222002
+default-1,mysql,PyMySQL,sum_by_category,0.945791
+default-1,mysql,PyMySQL,count_by_month,0.492047
+default-1,mysql,PyMySQL,count_by_month,0.410872
+default-1,mysql,PyMySQL,count_by_month,0.420204
+default-1,mysql,PyMySQL,count_by_month,0.463324
+default-1,mysql,PyMySQL,count_by_month,1.228286
+default-1,mysql,PyMySQL,count_by_month,0.929966
+default-1,mysql,PyMySQL,count_by_month,0.986719
+default-1,mysql,PyMySQL,count_by_month,0.703876
+default-1,mysql,PyMySQL,count_by_month,0.547289
+default-1,mysql,PyMySQL,count_by_month,0.537078
+default-1,mysql,PyMySQL,join_country_segment,5.58893
+default-1,mysql,PyMySQL,join_country_segment,2.358574
+default-1,mysql,PyMySQL,join_country_segment,3.363947
+default-1,mysql,PyMySQL,join_country_segment,3.527348
+default-1,mysql,PyMySQL,join_country_segment,2.252598
+default-1,mysql,PyMySQL,join_country_segment,2.513237
+default-1,mysql,PyMySQL,join_country_segment,4.22974
+default-1,mysql,PyMySQL,join_country_segment,3.57161
+default-1,mysql,PyMySQL,join_country_segment,6.524418
+default-1,mysql,PyMySQL,join_country_segment,4.203306
+default-1,mysql,PyMySQL,top_10_customers,1.947431
+default-1,mysql,PyMySQL,top_10_customers,1.874139
+default-1,mysql,PyMySQL,top_10_customers,1.623591
+default-1,mysql,PyMySQL,top_10_customers,1.418806
+default-1,mysql,PyMySQL,top_10_customers,1.268085
+default-1,mysql,PyMySQL,top_10_customers,0.923212
+default-1,mysql,PyMySQL,top_10_customers,0.795619
+default-1,mysql,PyMySQL,top_10_customers,0.805302
+default-1,mysql,PyMySQL,top_10_customers,0.988609
+default-1,mysql,PyMySQL,top_10_customers,1.139257
+default-1,mysql,PyMySQL,point_lookup_by_id,0.00043
+default-1,mysql,PyMySQL,point_lookup_by_id,0.000418
+default-1,mysql,PyMySQL,point_lookup_by_id,0.00052
+default-1,mysql,PyMySQL,point_lookup_by_id,0.000497
+default-1,mysql,PyMySQL,point_lookup_by_id,0.000461
+default-1,mysql,PyMySQL,point_lookup_by_id,0.000473
+default-1,mysql,PyMySQL,point_lookup_by_id,0.000437
+default-1,mysql,PyMySQL,point_lookup_by_id,0.000453
+default-1,mysql,PyMySQL,point_lookup_by_id,0.00064
+default-1,mysql,PyMySQL,point_lookup_by_id,0.000653
+default-1,mysql,PyMySQL,filter_one_customer_no_index,0.185868
+default-1,mysql,PyMySQL,filter_one_customer_no_index,0.17752
+default-1,mysql,PyMySQL,filter_one_customer_no_index,0.190143
+default-1,mysql,PyMySQL,filter_one_customer_no_index,0.239962
+default-1,mysql,PyMySQL,filter_one_customer_no_index,0.19549
+default-1,mysql,PyMySQL,filter_one_customer_no_index,0.177227
+default-1,mysql,PyMySQL,filter_one_customer_no_index,0.168653
+default-1,mysql,PyMySQL,filter_one_customer_no_index,0.161576
+default-1,mysql,PyMySQL,filter_one_customer_no_index,0.163208
+default-1,mysql,PyMySQL,filter_one_customer_no_index,0.165082
+default-1,mysql,PyMySQL,filter_one_customer_with_index,0.000448
+default-1,mysql,PyMySQL,filter_one_customer_with_index,0.000389
+default-1,mysql,PyMySQL,filter_one_customer_with_index,0.000315
+default-1,mysql,PyMySQL,filter_one_customer_with_index,0.00036
+default-1,mysql,PyMySQL,filter_one_customer_with_index,0.00033
+default-1,mysql,PyMySQL,filter_one_customer_with_index,0.000357
+default-1,mysql,PyMySQL,filter_one_customer_with_index,0.000449
+default-1,mysql,PyMySQL,filter_one_customer_with_index,0.000431
+default-1,mysql,PyMySQL,filter_one_customer_with_index,0.000401
+default-1,mysql,PyMySQL,filter_one_customer_with_index,0.00042
+default-1,mysql,PyMySQL,insert_1000_single_rows,4.836918
+default-1,mysql,PyMySQL,update_1000_rows_by_id,4.10179
+default-1,mysql,PyMySQL,insert_10000_rows_one_transaction,3.617151
+default-1,mysql,PyMySQL,8_clients_4000_inserts,5.609978
+default-1,mysql,PyMySQL,insert_1000_single_rows,3.363191
+default-1,mysql,PyMySQL,update_1000_rows_by_id,3.338462
+default-1,mysql,PyMySQL,insert_10000_rows_one_transaction,2.420332
+default-1,mysql,PyMySQL,8_clients_4000_inserts,3.168973
+default-1,mysql,PyMySQL,insert_1000_single_rows,2.878715
+default-1,mysql,PyMySQL,update_1000_rows_by_id,2.883514
+default-1,mysql,PyMySQL,insert_10000_rows_one_transaction,2.218272
+default-1,mysql,PyMySQL,8_clients_4000_inserts,6.665785
+default-2,postgres,,load_csv,2.073786
+default-2,postgres,,load_csv,1.877139
+default-2,postgres,,load_csv,1.908666
+default-2,postgres,,table_size_mb,89.7024
+default-2,postgres,,sum_by_category,0.135626
+default-2,postgres,,sum_by_category,0.156542
+default-2,postgres,,sum_by_category,0.127613
+default-2,postgres,,sum_by_category,0.165418
+default-2,postgres,,sum_by_category,0.125332
+default-2,postgres,,sum_by_category,0.136519
+default-2,postgres,,sum_by_category,0.274175
+default-2,postgres,,sum_by_category,0.16504
+default-2,postgres,,sum_by_category,0.140729
+default-2,postgres,,sum_by_category,0.188102
+default-2,postgres,,count_by_month,0.246642
+default-2,postgres,,count_by_month,0.331011
+default-2,postgres,,count_by_month,0.201378
+default-2,postgres,,count_by_month,0.191244
+default-2,postgres,,count_by_month,0.187586
+default-2,postgres,,count_by_month,0.209429
+default-2,postgres,,count_by_month,0.184218
+default-2,postgres,,count_by_month,0.212925
+default-2,postgres,,count_by_month,0.235748
+default-2,postgres,,count_by_month,0.190233
+default-2,postgres,,join_country_segment,0.552531
+default-2,postgres,,join_country_segment,0.415009
+default-2,postgres,,join_country_segment,0.596211
+default-2,postgres,,join_country_segment,0.424253
+default-2,postgres,,join_country_segment,0.378514
+default-2,postgres,,join_country_segment,0.340888
+default-2,postgres,,join_country_segment,0.456541
+default-2,postgres,,join_country_segment,0.404502
+default-2,postgres,,join_country_segment,0.387745
+default-2,postgres,,join_country_segment,0.414107
+default-2,postgres,,top_10_customers,0.776869
+default-2,postgres,,top_10_customers,0.63316
+default-2,postgres,,top_10_customers,0.602377
+default-2,postgres,,top_10_customers,0.696734
+default-2,postgres,,top_10_customers,0.594073
+default-2,postgres,,top_10_customers,0.629655
+default-2,postgres,,top_10_customers,0.641477
+default-2,postgres,,top_10_customers,0.634416
+default-2,postgres,,top_10_customers,0.731465
+default-2,postgres,,top_10_customers,0.609181
+default-2,postgres,,point_lookup_by_id,0.0003
+default-2,postgres,,point_lookup_by_id,0.000252
+default-2,postgres,,point_lookup_by_id,0.00024
+default-2,postgres,,point_lookup_by_id,0.000236
+default-2,postgres,,point_lookup_by_id,0.00041
+default-2,postgres,,point_lookup_by_id,0.000289
+default-2,postgres,,point_lookup_by_id,0.000213
+default-2,postgres,,point_lookup_by_id,0.000207
+default-2,postgres,,point_lookup_by_id,0.000194
+default-2,postgres,,point_lookup_by_id,0.000195
+default-2,postgres,,filter_one_customer_no_index,0.026519
+default-2,postgres,,filter_one_customer_no_index,0.023851
+default-2,postgres,,filter_one_customer_no_index,0.02972
+default-2,postgres,,filter_one_customer_no_index,0.062399
+default-2,postgres,,filter_one_customer_no_index,0.02454
+default-2,postgres,,filter_one_customer_no_index,0.057499
+default-2,postgres,,filter_one_customer_no_index,0.020997
+default-2,postgres,,filter_one_customer_no_index,0.020765
+default-2,postgres,,filter_one_customer_no_index,0.023931
+default-2,postgres,,filter_one_customer_no_index,0.048891
+default-2,postgres,,filter_one_customer_with_index,0.000296
+default-2,postgres,,filter_one_customer_with_index,0.000257
+default-2,postgres,,filter_one_customer_with_index,0.000235
+default-2,postgres,,filter_one_customer_with_index,0.000234
+default-2,postgres,,filter_one_customer_with_index,0.000232
+default-2,postgres,,filter_one_customer_with_index,0.00024
+default-2,postgres,,filter_one_customer_with_index,0.000224
+default-2,postgres,,filter_one_customer_with_index,0.000224
+default-2,postgres,,filter_one_customer_with_index,0.000237
+default-2,postgres,,filter_one_customer_with_index,0.000232
+default-2,postgres,,insert_1000_single_rows,0.918731
+default-2,postgres,,update_1000_rows_by_id,0.93982
+default-2,postgres,,insert_10000_rows_one_transaction,1.453034
+default-2,postgres,,8_clients_4000_inserts,2.0343
+default-2,postgres,,insert_1000_single_rows,0.98956
+default-2,postgres,,update_1000_rows_by_id,0.947048
+default-2,postgres,,insert_10000_rows_one_transaction,1.512086
+default-2,postgres,,8_clients_4000_inserts,1.995782
+default-2,postgres,,insert_1000_single_rows,1.168934
+default-2,postgres,,update_1000_rows_by_id,1.010025
+default-2,postgres,,insert_10000_rows_one_transaction,1.746332
+default-2,postgres,,8_clients_4000_inserts,2.201781
+default-2,mysql,PyMySQL,load_csv,4.850904
+default-2,mysql,PyMySQL,load_csv,4.809927
+default-2,mysql,PyMySQL,load_csv,5.05528
+default-2,mysql,PyMySQL,table_size_mb,57.229312
+default-2,mysql,PyMySQL,sum_by_category,0.648999
+default-2,mysql,PyMySQL,sum_by_category,0.611639
+default-2,mysql,PyMySQL,sum_by_category,0.627311
+default-2,mysql,PyMySQL,sum_by_category,0.641902
+default-2,mysql,PyMySQL,sum_by_category,0.639761
+default-2,mysql,PyMySQL,sum_by_category,0.634769
+default-2,mysql,PyMySQL,sum_by_category,0.624165
+default-2,mysql,PyMySQL,sum_by_category,0.642222
+default-2,mysql,PyMySQL,sum_by_category,0.621494
+default-2,mysql,PyMySQL,sum_by_category,0.621403
+default-2,mysql,PyMySQL,count_by_month,0.373911
+default-2,mysql,PyMySQL,count_by_month,0.403467
+default-2,mysql,PyMySQL,count_by_month,0.391955
+default-2,mysql,PyMySQL,count_by_month,0.400425
+default-2,mysql,PyMySQL,count_by_month,0.385114
+default-2,mysql,PyMySQL,count_by_month,0.383744
+default-2,mysql,PyMySQL,count_by_month,0.380764
+default-2,mysql,PyMySQL,count_by_month,0.386874
+default-2,mysql,PyMySQL,count_by_month,0.393939
+default-2,mysql,PyMySQL,count_by_month,0.397935
+default-2,mysql,PyMySQL,join_country_segment,2.122288
+default-2,mysql,PyMySQL,join_country_segment,2.025709
+default-2,mysql,PyMySQL,join_country_segment,2.113387
+default-2,mysql,PyMySQL,join_country_segment,2.116383
+default-2,mysql,PyMySQL,join_country_segment,2.058632
+default-2,mysql,PyMySQL,join_country_segment,2.060936
+default-2,mysql,PyMySQL,join_country_segment,2.082866
+default-2,mysql,PyMySQL,join_country_segment,2.118369
+default-2,mysql,PyMySQL,join_country_segment,2.099141
+default-2,mysql,PyMySQL,join_country_segment,2.068519
+default-2,mysql,PyMySQL,top_10_customers,0.776463
+default-2,mysql,PyMySQL,top_10_customers,0.769565
+default-2,mysql,PyMySQL,top_10_customers,0.773741
+default-2,mysql,PyMySQL,top_10_customers,0.793405
+default-2,mysql,PyMySQL,top_10_customers,0.748682
+default-2,mysql,PyMySQL,top_10_customers,0.763683
+default-2,mysql,PyMySQL,top_10_customers,0.768432
+default-2,mysql,PyMySQL,top_10_customers,0.761136
+default-2,mysql,PyMySQL,top_10_customers,0.772909
+default-2,mysql,PyMySQL,top_10_customers,0.772546
+default-2,mysql,PyMySQL,point_lookup_by_id,0.000751
+default-2,mysql,PyMySQL,point_lookup_by_id,0.000637
+default-2,mysql,PyMySQL,point_lookup_by_id,0.000473
+default-2,mysql,PyMySQL,point_lookup_by_id,0.000397
+default-2,mysql,PyMySQL,point_lookup_by_id,0.000414
+default-2,mysql,PyMySQL,point_lookup_by_id,0.00044
+default-2,mysql,PyMySQL,point_lookup_by_id,0.000499
+default-2,mysql,PyMySQL,point_lookup_by_id,0.000481
+default-2,mysql,PyMySQL,point_lookup_by_id,0.000399
+default-2,mysql,PyMySQL,point_lookup_by_id,0.000347
+default-2,mysql,PyMySQL,filter_one_customer_no_index,0.238733
+default-2,mysql,PyMySQL,filter_one_customer_no_index,0.179989
+default-2,mysql,PyMySQL,filter_one_customer_no_index,0.170689
+default-2,mysql,PyMySQL,filter_one_customer_no_index,0.177634
+default-2,mysql,PyMySQL,filter_one_customer_no_index,0.149918
+default-2,mysql,PyMySQL,filter_one_customer_no_index,0.152933
+default-2,mysql,PyMySQL,filter_one_customer_no_index,0.165671
+default-2,mysql,PyMySQL,filter_one_customer_no_index,0.160228
+default-2,mysql,PyMySQL,filter_one_customer_no_index,0.165343
+default-2,mysql,PyMySQL,filter_one_customer_no_index,0.157778
+default-2,mysql,PyMySQL,filter_one_customer_with_index,0.000376
+default-2,mysql,PyMySQL,filter_one_customer_with_index,0.000402
+default-2,mysql,PyMySQL,filter_one_customer_with_index,0.000337
+default-2,mysql,PyMySQL,filter_one_customer_with_index,0.000325
+default-2,mysql,PyMySQL,filter_one_customer_with_index,0.000297
+default-2,mysql,PyMySQL,filter_one_customer_with_index,0.000302
+default-2,mysql,PyMySQL,filter_one_customer_with_index,0.000307
+default-2,mysql,PyMySQL,filter_one_customer_with_index,0.000275
+default-2,mysql,PyMySQL,filter_one_customer_with_index,0.000291
+default-2,mysql,PyMySQL,filter_one_customer_with_index,0.000259
+default-2,mysql,PyMySQL,insert_1000_single_rows,2.634219
+default-2,mysql,PyMySQL,update_1000_rows_by_id,2.65859
+default-2,mysql,PyMySQL,insert_10000_rows_one_transaction,2.504148
+default-2,mysql,PyMySQL,8_clients_4000_inserts,3.103752
+default-2,mysql,PyMySQL,insert_1000_single_rows,2.788509
+default-2,mysql,PyMySQL,update_1000_rows_by_id,2.793063
+default-2,mysql,PyMySQL,insert_10000_rows_one_transaction,2.094179
+default-2,mysql,PyMySQL,8_clients_4000_inserts,3.240607
+default-2,mysql,PyMySQL,insert_1000_single_rows,2.787434
+default-2,mysql,PyMySQL,update_1000_rows_by_id,2.753703
+default-2,mysql,PyMySQL,insert_10000_rows_one_transaction,2.260192
+default-2,mysql,PyMySQL,8_clients_4000_inserts,2.918027
+tuned-1,postgres,,load_csv,1.841097
+tuned-1,postgres,,load_csv,2.047337
+tuned-1,postgres,,load_csv,1.947242
+tuned-1,postgres,,table_size_mb,89.7024
+tuned-1,postgres,,sum_by_category,0.170924
+tuned-1,postgres,,sum_by_category,0.131974
+tuned-1,postgres,,sum_by_category,0.174829
+tuned-1,postgres,,sum_by_category,0.124101
+tuned-1,postgres,,sum_by_category,0.18887
+tuned-1,postgres,,sum_by_category,0.270858
+tuned-1,postgres,,sum_by_category,0.204178
+tuned-1,postgres,,sum_by_category,0.179252
+tuned-1,postgres,,sum_by_category,0.136916
+tuned-1,postgres,,sum_by_category,0.278775
+tuned-1,postgres,,count_by_month,0.199158
+tuned-1,postgres,,count_by_month,0.349754
+tuned-1,postgres,,count_by_month,0.205317
+tuned-1,postgres,,count_by_month,0.195242
+tuned-1,postgres,,count_by_month,0.214192
+tuned-1,postgres,,count_by_month,0.215414
+tuned-1,postgres,,count_by_month,0.217771
+tuned-1,postgres,,count_by_month,0.252674
+tuned-1,postgres,,count_by_month,0.152623
+tuned-1,postgres,,count_by_month,0.186491
+tuned-1,postgres,,join_country_segment,0.416464
+tuned-1,postgres,,join_country_segment,0.464365
+tuned-1,postgres,,join_country_segment,0.498989
+tuned-1,postgres,,join_country_segment,0.62069
+tuned-1,postgres,,join_country_segment,0.492349
+tuned-1,postgres,,join_country_segment,0.622859
+tuned-1,postgres,,join_country_segment,0.569474
+tuned-1,postgres,,join_country_segment,0.589991
+tuned-1,postgres,,join_country_segment,0.514912
+tuned-1,postgres,,join_country_segment,0.596363
+tuned-1,postgres,,top_10_customers,1.363054
+tuned-1,postgres,,top_10_customers,1.178232
+tuned-1,postgres,,top_10_customers,1.001062
+tuned-1,postgres,,top_10_customers,1.163831
+tuned-1,postgres,,top_10_customers,1.122935
+tuned-1,postgres,,top_10_customers,1.699113
+tuned-1,postgres,,top_10_customers,1.051091
+tuned-1,postgres,,top_10_customers,1.029117
+tuned-1,postgres,,top_10_customers,1.245027
+tuned-1,postgres,,top_10_customers,1.032555
+tuned-1,postgres,,point_lookup_by_id,0.000359
+tuned-1,postgres,,point_lookup_by_id,0.000429
+tuned-1,postgres,,point_lookup_by_id,0.000372
+tuned-1,postgres,,point_lookup_by_id,0.000351
+tuned-1,postgres,,point_lookup_by_id,0.000623
+tuned-1,postgres,,point_lookup_by_id,0.000331
+tuned-1,postgres,,point_lookup_by_id,0.000258
+tuned-1,postgres,,point_lookup_by_id,0.000325
+tuned-1,postgres,,point_lookup_by_id,0.000265
+tuned-1,postgres,,point_lookup_by_id,0.000243
+tuned-1,postgres,,filter_one_customer_no_index,0.028571
+tuned-1,postgres,,filter_one_customer_no_index,0.037984
+tuned-1,postgres,,filter_one_customer_no_index,0.057475
+tuned-1,postgres,,filter_one_customer_no_index,0.033057
+tuned-1,postgres,,filter_one_customer_no_index,0.067361
+tuned-1,postgres,,filter_one_customer_no_index,0.044074
+tuned-1,postgres,,filter_one_customer_no_index,0.068909
+tuned-1,postgres,,filter_one_customer_no_index,0.041318
+tuned-1,postgres,,filter_one_customer_no_index,0.063918
+tuned-1,postgres,,filter_one_customer_no_index,0.03795
+tuned-1,postgres,,filter_one_customer_with_index,0.000312
+tuned-1,postgres,,filter_one_customer_with_index,0.000357
+tuned-1,postgres,,filter_one_customer_with_index,0.000438
+tuned-1,postgres,,filter_one_customer_with_index,0.000376
+tuned-1,postgres,,filter_one_customer_with_index,0.000354
+tuned-1,postgres,,filter_one_customer_with_index,0.0003
+tuned-1,postgres,,filter_one_customer_with_index,0.000322
+tuned-1,postgres,,filter_one_customer_with_index,0.000316
+tuned-1,postgres,,filter_one_customer_with_index,0.000314
+tuned-1,postgres,,filter_one_customer_with_index,0.000256
+tuned-1,postgres,,insert_1000_single_rows,1.21798
+tuned-1,postgres,,update_1000_rows_by_id,1.597782
+tuned-1,postgres,,insert_10000_rows_one_transaction,2.824768
+tuned-1,postgres,,8_clients_4000_inserts,2.487835
+tuned-1,postgres,,insert_1000_single_rows,1.580143
+tuned-1,postgres,,update_1000_rows_by_id,1.140954
+tuned-1,postgres,,insert_10000_rows_one_transaction,1.986496
+tuned-1,postgres,,8_clients_4000_inserts,2.088864
+tuned-1,postgres,,insert_1000_single_rows,0.925031
+tuned-1,postgres,,update_1000_rows_by_id,0.865127
+tuned-1,postgres,,insert_10000_rows_one_transaction,1.554737
+tuned-1,postgres,,8_clients_4000_inserts,2.084506
+tuned-1,mysql,PyMySQL,load_csv,5.214315
+tuned-1,mysql,PyMySQL,load_csv,5.130733
+tuned-1,mysql,PyMySQL,load_csv,5.95287
+tuned-1,mysql,PyMySQL,table_size_mb,57.229312
+tuned-1,mysql,PyMySQL,sum_by_category,0.707618
+tuned-1,mysql,PyMySQL,sum_by_category,0.721524
+tuned-1,mysql,PyMySQL,sum_by_category,1.11719
+tuned-1,mysql,PyMySQL,sum_by_category,0.971594
+tuned-1,mysql,PyMySQL,sum_by_category,1.384063
+tuned-1,mysql,PyMySQL,sum_by_category,1.587933
+tuned-1,mysql,PyMySQL,sum_by_category,2.228185
+tuned-1,mysql,PyMySQL,sum_by_category,1.721337
+tuned-1,mysql,PyMySQL,sum_by_category,1.318165
+tuned-1,mysql,PyMySQL,sum_by_category,0.957285
+tuned-1,mysql,PyMySQL,count_by_month,0.613922
+tuned-1,mysql,PyMySQL,count_by_month,0.554492
+tuned-1,mysql,PyMySQL,count_by_month,0.494475
+tuned-1,mysql,PyMySQL,count_by_month,0.44647
+tuned-1,mysql,PyMySQL,count_by_month,0.444196
+tuned-1,mysql,PyMySQL,count_by_month,0.433277
+tuned-1,mysql,PyMySQL,count_by_month,0.430318
+tuned-1,mysql,PyMySQL,count_by_month,0.435989
+tuned-1,mysql,PyMySQL,count_by_month,0.614971
+tuned-1,mysql,PyMySQL,count_by_month,0.750195
+tuned-1,mysql,PyMySQL,join_country_segment,3.515423
+tuned-1,mysql,PyMySQL,join_country_segment,4.986209
+tuned-1,mysql,PyMySQL,join_country_segment,7.215021
+tuned-1,mysql,PyMySQL,join_country_segment,4.856639
+tuned-1,mysql,PyMySQL,join_country_segment,6.246963
+tuned-1,mysql,PyMySQL,join_country_segment,4.239382
+tuned-1,mysql,PyMySQL,join_country_segment,4.040074
+tuned-1,mysql,PyMySQL,join_country_segment,7.449332
+tuned-1,mysql,PyMySQL,join_country_segment,3.868884
+tuned-1,mysql,PyMySQL,join_country_segment,2.799406
+tuned-1,mysql,PyMySQL,top_10_customers,0.856884
+tuned-1,mysql,PyMySQL,top_10_customers,0.838358
+tuned-1,mysql,PyMySQL,top_10_customers,0.821631
+tuned-1,mysql,PyMySQL,top_10_customers,0.796256
+tuned-1,mysql,PyMySQL,top_10_customers,0.806567
+tuned-1,mysql,PyMySQL,top_10_customers,0.809266
+tuned-1,mysql,PyMySQL,top_10_customers,0.784624
+tuned-1,mysql,PyMySQL,top_10_customers,0.838555
+tuned-1,mysql,PyMySQL,top_10_customers,0.882751
+tuned-1,mysql,PyMySQL,top_10_customers,0.807812
+tuned-1,mysql,PyMySQL,point_lookup_by_id,0.000242
+tuned-1,mysql,PyMySQL,point_lookup_by_id,0.000231
+tuned-1,mysql,PyMySQL,point_lookup_by_id,0.000231
+tuned-1,mysql,PyMySQL,point_lookup_by_id,0.000217
+tuned-1,mysql,PyMySQL,point_lookup_by_id,0.000217
+tuned-1,mysql,PyMySQL,point_lookup_by_id,0.000216
+tuned-1,mysql,PyMySQL,point_lookup_by_id,0.000229
+tuned-1,mysql,PyMySQL,point_lookup_by_id,0.000219
+tuned-1,mysql,PyMySQL,point_lookup_by_id,0.000214
+tuned-1,mysql,PyMySQL,point_lookup_by_id,0.000226
+tuned-1,mysql,PyMySQL,filter_one_customer_no_index,0.173427
+tuned-1,mysql,PyMySQL,filter_one_customer_no_index,0.185245
+tuned-1,mysql,PyMySQL,filter_one_customer_no_index,0.180644
+tuned-1,mysql,PyMySQL,filter_one_customer_no_index,0.206074
+tuned-1,mysql,PyMySQL,filter_one_customer_no_index,0.313968
+tuned-1,mysql,PyMySQL,filter_one_customer_no_index,0.280502
+tuned-1,mysql,PyMySQL,filter_one_customer_no_index,0.241238
+tuned-1,mysql,PyMySQL,filter_one_customer_no_index,0.285736
+tuned-1,mysql,PyMySQL,filter_one_customer_no_index,0.218714
+tuned-1,mysql,PyMySQL,filter_one_customer_no_index,0.340179
+tuned-1,mysql,PyMySQL,filter_one_customer_with_index,0.000588
+tuned-1,mysql,PyMySQL,filter_one_customer_with_index,0.00052
+tuned-1,mysql,PyMySQL,filter_one_customer_with_index,0.000442
+tuned-1,mysql,PyMySQL,filter_one_customer_with_index,0.00043
+tuned-1,mysql,PyMySQL,filter_one_customer_with_index,0.000461
+tuned-1,mysql,PyMySQL,filter_one_customer_with_index,0.000519
+tuned-1,mysql,PyMySQL,filter_one_customer_with_index,0.000678
+tuned-1,mysql,PyMySQL,filter_one_customer_with_index,0.000585
+tuned-1,mysql,PyMySQL,filter_one_customer_with_index,0.000562
+tuned-1,mysql,PyMySQL,filter_one_customer_with_index,0.000532
+tuned-1,mysql,PyMySQL,insert_1000_single_rows,3.325981
+tuned-1,mysql,PyMySQL,update_1000_rows_by_id,3.100007
+tuned-1,mysql,PyMySQL,insert_10000_rows_one_transaction,2.40783
+tuned-1,mysql,PyMySQL,8_clients_4000_inserts,3.526278
+tuned-1,mysql,PyMySQL,insert_1000_single_rows,3.060902
+tuned-1,mysql,PyMySQL,update_1000_rows_by_id,2.788785
+tuned-1,mysql,PyMySQL,insert_10000_rows_one_transaction,2.73709
+tuned-1,mysql,PyMySQL,8_clients_4000_inserts,3.307834
+tuned-1,mysql,PyMySQL,insert_1000_single_rows,2.87349
+tuned-1,mysql,PyMySQL,update_1000_rows_by_id,3.186755
+tuned-1,mysql,PyMySQL,insert_10000_rows_one_transaction,2.3366
+tuned-1,mysql,PyMySQL,8_clients_4000_inserts,3.386209
+default-connector1,mysql,mysql-connector-python (C extension),load_csv,5.069581
+default-connector1,mysql,mysql-connector-python (C extension),load_csv,5.129153
+default-connector1,mysql,mysql-connector-python (C extension),load_csv,5.147114
+default-connector1,mysql,mysql-connector-python (C extension),table_size_mb,57.229312
+default-connector1,mysql,mysql-connector-python (C extension),sum_by_category,0.772926
+default-connector1,mysql,mysql-connector-python (C extension),sum_by_category,0.688624
+default-connector1,mysql,mysql-connector-python (C extension),sum_by_category,0.678361
+default-connector1,mysql,mysql-connector-python (C extension),sum_by_category,0.682266
+default-connector1,mysql,mysql-connector-python (C extension),sum_by_category,0.684963
+default-connector1,mysql,mysql-connector-python (C extension),sum_by_category,0.66659
+default-connector1,mysql,mysql-connector-python (C extension),sum_by_category,0.66984
+default-connector1,mysql,mysql-connector-python (C extension),sum_by_category,0.684335
+default-connector1,mysql,mysql-connector-python (C extension),sum_by_category,0.669635
+default-connector1,mysql,mysql-connector-python (C extension),sum_by_category,0.658319
+default-connector1,mysql,mysql-connector-python (C extension),count_by_month,0.434914
+default-connector1,mysql,mysql-connector-python (C extension),count_by_month,0.426858
+default-connector1,mysql,mysql-connector-python (C extension),count_by_month,0.423073
+default-connector1,mysql,mysql-connector-python (C extension),count_by_month,0.41201
+default-connector1,mysql,mysql-connector-python (C extension),count_by_month,0.415338
+default-connector1,mysql,mysql-connector-python (C extension),count_by_month,0.423982
+default-connector1,mysql,mysql-connector-python (C extension),count_by_month,0.405476
+default-connector1,mysql,mysql-connector-python (C extension),count_by_month,0.408069
+default-connector1,mysql,mysql-connector-python (C extension),count_by_month,0.428739
+default-connector1,mysql,mysql-connector-python (C extension),count_by_month,0.407016
+default-connector1,mysql,mysql-connector-python (C extension),join_country_segment,2.299769
+default-connector1,mysql,mysql-connector-python (C extension),join_country_segment,2.402083
+default-connector1,mysql,mysql-connector-python (C extension),join_country_segment,2.318283
+default-connector1,mysql,mysql-connector-python (C extension),join_country_segment,2.403662
+default-connector1,mysql,mysql-connector-python (C extension),join_country_segment,2.360919
+default-connector1,mysql,mysql-connector-python (C extension),join_country_segment,2.350877
+default-connector1,mysql,mysql-connector-python (C extension),join_country_segment,2.357563
+default-connector1,mysql,mysql-connector-python (C extension),join_country_segment,2.27194
+default-connector1,mysql,mysql-connector-python (C extension),join_country_segment,2.214249
+default-connector1,mysql,mysql-connector-python (C extension),join_country_segment,2.257692
+default-connector1,mysql,mysql-connector-python (C extension),top_10_customers,0.776088
+default-connector1,mysql,mysql-connector-python (C extension),top_10_customers,0.783924
+default-connector1,mysql,mysql-connector-python (C extension),top_10_customers,0.761381
+default-connector1,mysql,mysql-connector-python (C extension),top_10_customers,0.785738
+default-connector1,mysql,mysql-connector-python (C extension),top_10_customers,0.807042
+default-connector1,mysql,mysql-connector-python (C extension),top_10_customers,0.761571
+default-connector1,mysql,mysql-connector-python (C extension),top_10_customers,0.773411
+default-connector1,mysql,mysql-connector-python (C extension),top_10_customers,0.781317
+default-connector1,mysql,mysql-connector-python (C extension),top_10_customers,0.782549
+default-connector1,mysql,mysql-connector-python (C extension),top_10_customers,0.779409
+default-connector1,mysql,mysql-connector-python (C extension),point_lookup_by_id,0.000382
+default-connector1,mysql,mysql-connector-python (C extension),point_lookup_by_id,0.000319
+default-connector1,mysql,mysql-connector-python (C extension),point_lookup_by_id,0.000315
+default-connector1,mysql,mysql-connector-python (C extension),point_lookup_by_id,0.000319
+default-connector1,mysql,mysql-connector-python (C extension),point_lookup_by_id,0.00033
+default-connector1,mysql,mysql-connector-python (C extension),point_lookup_by_id,0.000337
+default-connector1,mysql,mysql-connector-python (C extension),point_lookup_by_id,0.000346
+default-connector1,mysql,mysql-connector-python (C extension),point_lookup_by_id,0.000333
+default-connector1,mysql,mysql-connector-python (C extension),point_lookup_by_id,0.000286
+default-connector1,mysql,mysql-connector-python (C extension),point_lookup_by_id,0.000325
+default-connector1,mysql,mysql-connector-python (C extension),filter_one_customer_no_index,0.184597
+default-connector1,mysql,mysql-connector-python (C extension),filter_one_customer_no_index,0.155093
+default-connector1,mysql,mysql-connector-python (C extension),filter_one_customer_no_index,0.159386
+default-connector1,mysql,mysql-connector-python (C extension),filter_one_customer_no_index,0.171417
+default-connector1,mysql,mysql-connector-python (C extension),filter_one_customer_no_index,0.161114
+default-connector1,mysql,mysql-connector-python (C extension),filter_one_customer_no_index,0.157426
+default-connector1,mysql,mysql-connector-python (C extension),filter_one_customer_no_index,0.156485
+default-connector1,mysql,mysql-connector-python (C extension),filter_one_customer_no_index,0.15987
+default-connector1,mysql,mysql-connector-python (C extension),filter_one_customer_no_index,0.166342
+default-connector1,mysql,mysql-connector-python (C extension),filter_one_customer_no_index,0.172052
+default-connector1,mysql,mysql-connector-python (C extension),filter_one_customer_with_index,0.000315
+default-connector1,mysql,mysql-connector-python (C extension),filter_one_customer_with_index,0.000341
+default-connector1,mysql,mysql-connector-python (C extension),filter_one_customer_with_index,0.000399
+default-connector1,mysql,mysql-connector-python (C extension),filter_one_customer_with_index,0.000289
+default-connector1,mysql,mysql-connector-python (C extension),filter_one_customer_with_index,0.000266
+default-connector1,mysql,mysql-connector-python (C extension),filter_one_customer_with_index,0.000284
+default-connector1,mysql,mysql-connector-python (C extension),filter_one_customer_with_index,0.000262
+default-connector1,mysql,mysql-connector-python (C extension),filter_one_customer_with_index,0.000256
+default-connector1,mysql,mysql-connector-python (C extension),filter_one_customer_with_index,0.000253
+default-connector1,mysql,mysql-connector-python (C extension),filter_one_customer_with_index,0.000257
+default-connector1,mysql,mysql-connector-python (C extension),insert_1000_single_rows,2.968243
+default-connector1,mysql,mysql-connector-python (C extension),update_1000_rows_by_id,2.930192
+default-connector1,mysql,mysql-connector-python (C extension),insert_10000_rows_one_transaction,2.675755
+default-connector1,mysql,mysql-connector-python (C extension),8_clients_4000_inserts,3.517385
+default-connector1,mysql,mysql-connector-python (C extension),insert_1000_single_rows,2.982408
+default-connector1,mysql,mysql-connector-python (C extension),update_1000_rows_by_id,2.872607
+default-connector1,mysql,mysql-connector-python (C extension),insert_10000_rows_one_transaction,2.410947
+default-connector1,mysql,mysql-connector-python (C extension),8_clients_4000_inserts,3.036654
+default-connector1,mysql,mysql-connector-python (C extension),insert_1000_single_rows,2.917874
+default-connector1,mysql,mysql-connector-python (C extension),update_1000_rows_by_id,2.914468
+default-connector1,mysql,mysql-connector-python (C extension),insert_10000_rows_one_transaction,2.119772
+default-connector1,mysql,mysql-connector-python (C extension),8_clients_4000_inserts,2.928201
+default-connector2,mysql,mysql-connector-python (C extension),load_csv,4.929567
+default-connector2,mysql,mysql-connector-python (C extension),load_csv,4.990918
+default-connector2,mysql,mysql-connector-python (C extension),load_csv,4.756999
+default-connector2,mysql,mysql-connector-python (C extension),table_size_mb,57.229312
+default-connector2,mysql,mysql-connector-python (C extension),sum_by_category,0.661333
+default-connector2,mysql,mysql-connector-python (C extension),sum_by_category,0.678839
+default-connector2,mysql,mysql-connector-python (C extension),sum_by_category,0.63756
+default-connector2,mysql,mysql-connector-python (C extension),sum_by_category,0.651953
+default-connector2,mysql,mysql-connector-python (C extension),sum_by_category,0.635019
+default-connector2,mysql,mysql-connector-python (C extension),sum_by_category,0.635636
+default-connector2,mysql,mysql-connector-python (C extension),sum_by_category,0.644141
+default-connector2,mysql,mysql-connector-python (C extension),sum_by_category,0.640449
+default-connector2,mysql,mysql-connector-python (C extension),sum_by_category,0.628196
+default-connector2,mysql,mysql-connector-python (C extension),sum_by_category,0.645557
+default-connector2,mysql,mysql-connector-python (C extension),count_by_month,0.399206
+default-connector2,mysql,mysql-connector-python (C extension),count_by_month,0.410268
+default-connector2,mysql,mysql-connector-python (C extension),count_by_month,0.380698
+default-connector2,mysql,mysql-connector-python (C extension),count_by_month,0.38234
+default-connector2,mysql,mysql-connector-python (C extension),count_by_month,0.390854
+default-connector2,mysql,mysql-connector-python (C extension),count_by_month,0.406669
+default-connector2,mysql,mysql-connector-python (C extension),count_by_month,0.389443
+default-connector2,mysql,mysql-connector-python (C extension),count_by_month,0.41002
+default-connector2,mysql,mysql-connector-python (C extension),count_by_month,0.49951
+default-connector2,mysql,mysql-connector-python (C extension),count_by_month,0.420393
+default-connector2,mysql,mysql-connector-python (C extension),join_country_segment,2.095199
+default-connector2,mysql,mysql-connector-python (C extension),join_country_segment,2.632823
+default-connector2,mysql,mysql-connector-python (C extension),join_country_segment,2.109628
+default-connector2,mysql,mysql-connector-python (C extension),join_country_segment,2.08084
+default-connector2,mysql,mysql-connector-python (C extension),join_country_segment,2.13679
+default-connector2,mysql,mysql-connector-python (C extension),join_country_segment,2.141209
+default-connector2,mysql,mysql-connector-python (C extension),join_country_segment,2.129316
+default-connector2,mysql,mysql-connector-python (C extension),join_country_segment,2.100442
+default-connector2,mysql,mysql-connector-python (C extension),join_country_segment,2.164962
+default-connector2,mysql,mysql-connector-python (C extension),join_country_segment,2.155855
+default-connector2,mysql,mysql-connector-python (C extension),top_10_customers,0.751907
+default-connector2,mysql,mysql-connector-python (C extension),top_10_customers,0.792472
+default-connector2,mysql,mysql-connector-python (C extension),top_10_customers,0.746788
+default-connector2,mysql,mysql-connector-python (C extension),top_10_customers,0.900077
+default-connector2,mysql,mysql-connector-python (C extension),top_10_customers,1.088412
+default-connector2,mysql,mysql-connector-python (C extension),top_10_customers,0.939137
+default-connector2,mysql,mysql-connector-python (C extension),top_10_customers,0.742573
+default-connector2,mysql,mysql-connector-python (C extension),top_10_customers,0.792527
+default-connector2,mysql,mysql-connector-python (C extension),top_10_customers,0.927964
+default-connector2,mysql,mysql-connector-python (C extension),top_10_customers,0.995858
+default-connector2,mysql,mysql-connector-python (C extension),point_lookup_by_id,0.00045
+default-connector2,mysql,mysql-connector-python (C extension),point_lookup_by_id,0.000511
+default-connector2,mysql,mysql-connector-python (C extension),point_lookup_by_id,0.000462
+default-connector2,mysql,mysql-connector-python (C extension),point_lookup_by_id,0.000492
+default-connector2,mysql,mysql-connector-python (C extension),point_lookup_by_id,0.000459
+default-connector2,mysql,mysql-connector-python (C extension),point_lookup_by_id,0.000656
+default-connector2,mysql,mysql-connector-python (C extension),point_lookup_by_id,0.000522
+default-connector2,mysql,mysql-connector-python (C extension),point_lookup_by_id,0.000487
+default-connector2,mysql,mysql-connector-python (C extension),point_lookup_by_id,0.000435
+default-connector2,mysql,mysql-connector-python (C extension),point_lookup_by_id,0.000582
+default-connector2,mysql,mysql-connector-python (C extension),filter_one_customer_no_index,0.16529
+default-connector2,mysql,mysql-connector-python (C extension),filter_one_customer_no_index,0.159165
+default-connector2,mysql,mysql-connector-python (C extension),filter_one_customer_no_index,0.153342
+default-connector2,mysql,mysql-connector-python (C extension),filter_one_customer_no_index,0.154586
+default-connector2,mysql,mysql-connector-python (C extension),filter_one_customer_no_index,0.161165
+default-connector2,mysql,mysql-connector-python (C extension),filter_one_customer_no_index,0.161937
+default-connector2,mysql,mysql-connector-python (C extension),filter_one_customer_no_index,0.151954
+default-connector2,mysql,mysql-connector-python (C extension),filter_one_customer_no_index,0.162024
+default-connector2,mysql,mysql-connector-python (C extension),filter_one_customer_no_index,0.170247
+default-connector2,mysql,mysql-connector-python (C extension),filter_one_customer_no_index,0.152304
+default-connector2,mysql,mysql-connector-python (C extension),filter_one_customer_with_index,0.000328
+default-connector2,mysql,mysql-connector-python (C extension),filter_one_customer_with_index,0.000366
+default-connector2,mysql,mysql-connector-python (C extension),filter_one_customer_with_index,0.000365
+default-connector2,mysql,mysql-connector-python (C extension),filter_one_customer_with_index,0.00035
+default-connector2,mysql,mysql-connector-python (C extension),filter_one_customer_with_index,0.000341
+default-connector2,mysql,mysql-connector-python (C extension),filter_one_customer_with_index,0.000306
+default-connector2,mysql,mysql-connector-python (C extension),filter_one_customer_with_index,0.000274
+default-connector2,mysql,mysql-connector-python (C extension),filter_one_customer_with_index,0.000247
+default-connector2,mysql,mysql-connector-python (C extension),filter_one_customer_with_index,0.000237
+default-connector2,mysql,mysql-connector-python (C extension),filter_one_customer_with_index,0.000268
+default-connector2,mysql,mysql-connector-python (C extension),insert_1000_single_rows,2.983466
+default-connector2,mysql,mysql-connector-python (C extension),update_1000_rows_by_id,2.883953
+default-connector2,mysql,mysql-connector-python (C extension),insert_10000_rows_one_transaction,2.187148
+default-connector2,mysql,mysql-connector-python (C extension),8_clients_4000_inserts,2.878677
+default-connector2,mysql,mysql-connector-python (C extension),insert_1000_single_rows,2.771963
+default-connector2,mysql,mysql-connector-python (C extension),update_1000_rows_by_id,2.842567
+default-connector2,mysql,mysql-connector-python (C extension),insert_10000_rows_one_transaction,2.332651
+default-connector2,mysql,mysql-connector-python (C extension),8_clients_4000_inserts,2.908417
+default-connector2,mysql,mysql-connector-python (C extension),insert_1000_single_rows,2.915607
+default-connector2,mysql,mysql-connector-python (C extension),update_1000_rows_by_id,2.834576
+default-connector2,mysql,mysql-connector-python (C extension),insert_10000_rows_one_transaction,2.328816
+default-connector2,mysql,mysql-connector-python (C extension),8_clients_4000_inserts,3.009562
